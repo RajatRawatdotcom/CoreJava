@@ -1,5 +1,4 @@
 package corejava.interfaces;
-
 public interface VehicalInterface {
 	
 	public abstract void vehical_name(String v_name);
