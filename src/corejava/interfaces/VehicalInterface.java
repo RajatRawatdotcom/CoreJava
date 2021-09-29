@@ -1,4 +1,7 @@
 package corejava.interfaces;
+
+/*vehical interface*/
+
 public interface VehicalInterface {
 	
 	public abstract void vehical_name(String v_name);
@@ -10,6 +13,7 @@ public interface VehicalInterface {
 	public abstract void vehical_spead(int max_speed);
 	
 	public abstract void model_no(String m_number);
+	
 	
 }
 
